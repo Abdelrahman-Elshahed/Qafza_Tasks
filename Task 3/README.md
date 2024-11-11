@@ -11,7 +11,7 @@ This project performs data analysis and modeling on Airbnb data to predict vario
   - [Run the FastAPI Application](#run-the-fastapi-application)
   - [API Usage](#api-usage)
   - [Dockerization](#dockerization)
-  - [Docker Hub Repo](#docker-hub-repository)
+  - [Docker Hub Repo](#docker-hub-repo)
 
 
 ## Project Overview
