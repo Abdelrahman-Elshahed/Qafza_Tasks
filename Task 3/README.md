@@ -56,6 +56,7 @@ This project performs data analysis and modeling on Airbnb data to predict vario
 ## API Usage
 
   After starting the API server, you can make POST requests to the /predict endpoint with a JSON payload containing the input features
+![Screenshot Response](https://github.com/user-attachments/assets/6204151b-53b7-4f31-bfcb-8793bd3b9ed5)
 
   
 ## Dockerization
@@ -77,4 +78,4 @@ This project performs data analysis and modeling on Airbnb data to predict vario
 
 Docker image on Docker Hub [Click Here](https://hub.docker.com/repository/docker/bodaaa/qafza_docker_task/general).
 
-![photo of dockerhub](dockerhub screenshot.png)
+![dockerhub screenshot](https://github.com/user-attachments/assets/ed1b6c17-877c-416c-ad9e-4455fc238b45)
