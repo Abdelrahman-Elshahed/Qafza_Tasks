@@ -76,3 +76,5 @@ This project performs data analysis and modeling on Airbnb data to predict vario
 ## Docker Hub Repo
 
 Docker image on Docker Hub [Click Here](https://hub.docker.com/repository/docker/bodaaa/qafza_docker_task/general).
+
+![photo of dockerhub](dockerhub screenshot.png)
