@@ -23,7 +23,7 @@ This project performs the following steps:
 To start using this project, first, clone the repository:
 
 ```bash
-https://github.com/Abdelrahman-Elshahed/Qafza_Tasks/Task4.git
+git clone https://github.com/Abdelrahman-Elshahed/Qafza_Tasks.git
 ```
 
 ## Run the ETL Scripts
