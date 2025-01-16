@@ -1,0 +1,35 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore data files (add specific datasets if necessary)
+*.csv
+*.xlsx
+*.sql
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore Dockerfile and docker-compose file (optional, if you don’t need them in the image)
+Dockerfile
+docker-compose.yml
+
+# Ignore system files
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# Ignore git files
+.git
+.gitignore
+
+# Ignore saved model files unless they’re needed for production
+
+*.xgb
+*.joblib
