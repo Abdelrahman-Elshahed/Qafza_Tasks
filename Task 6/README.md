@@ -10,9 +10,9 @@ This project performs data analysis and modeling on Airbnb data to predict vario
   - [Set Up Dependencies](#set-up-dependencies)
   - [Run the FastAPI Application](#run-the-fastapi-application)
   - [API Usage](#api-usage)
-  - [PostMan API Testing](#postman-api-testing)
   - [Dockerization](#dockerization)
   - [Docker Hub Repo](#docker-hub-repo)
+  - [PostMan API Testing](#postman-api-testing)
   - [MLflow Integration](#mlflow-integration)
   - [DagsHub Integration with MLflow](#dagshub-integration-with-mlflow)
 
@@ -74,13 +74,18 @@ This project performs data analysis and modeling on Airbnb data to predict vario
      ```bash
      docker run -p 8000:8000 airbnb-prediction
      ```
-## PostMan API Testing
-  ![Image](https://github.com/user-attachments/assets/e485add4-32ea-4d49-b588-41c65971dced)
+![Image](https://github.com/user-attachments/assets/6932d7ff-2a26-425e-8cc7-357e4808968b)
+
+![Image](https://github.com/user-attachments/assets/7efb5937-6733-4d1a-b9af-e410a872da84)
+
 ## Docker Hub Repo
 
 Docker image on Docker Hub [Click Here](https://hub.docker.com/repository/docker/bodaaa/qafza_docker_task/general).
 
 ![dockerhub screenshot](https://github.com/user-attachments/assets/ed1b6c17-877c-416c-ad9e-4455fc238b45)
+
+## PostMan API Testing
+  ![Image](https://github.com/user-attachments/assets/e485add4-32ea-4d49-b588-41c65971dced)
 
 ## MLflow Integration
   
