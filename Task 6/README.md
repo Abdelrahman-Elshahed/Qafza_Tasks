@@ -14,7 +14,7 @@ This project performs data analysis and modeling on Airbnb data to predict vario
   - [Dockerization](#dockerization)
   - [Docker Hub Repo](#docker-hub-repo)
   - [MLflow Integration](#mlflow-integration)
-
+  - [DagsHub Integration with MLflow](#dagshub-integration-with-mlflow)
 
 ## Project Overview
 
@@ -91,3 +91,9 @@ Docker image on Docker Hub [Click Here](https://hub.docker.com/repository/docker
 ![Image](https://github.com/user-attachments/assets/54d744ad-2554-4cd3-971f-9564909d9de1)
 
 ![Image](https://github.com/user-attachments/assets/3161f561-0892-4cb8-81b7-672574511489)
+
+## DagsHub Integration with MLflow
+  - DagsHub integrates with MLflow, providing an online, collaborative platform for everyone to track experiments, version models, and manage machine learning projects seamlessly.
+  - For DagsHub Experiments [Click Here](https://dagshub.com/Abdelrahman-Elshahed/Qafza_Tasks/experiments).
+![Image](https://github.com/user-attachments/assets/12253f61-ce9d-44a3-99aa-dd2623ce4c67)
+![Image](https://github.com/user-attachments/assets/d42f57bc-00bb-4a72-b328-d9e91ecd2a15)
